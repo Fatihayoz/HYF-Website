@@ -3,12 +3,17 @@
 We will meet whenever necessary and circumstances permit. On some occasions, a single member may be available to communicate with the member requesting communication, and both may solve any questions or difficulties.
 ## Communication Channels
 [comment]: <> (As a team come up with a plan for how to use each communication channel. What will you discuss on each one? How often will you get in touch on each channel? Below is a starter list of different ways to communicate, go ahead and rewrite this list so it works for your team:)
+
 **Slack:**  Continuous communication. It is important to know in what stage of the project the rest of the team is working; Furthermore, if any of the members of the group has any request, doubt or question, it should be addressed first by the group before moving on to another instance.
+
 **Zoom Calls:** As scheduled by the team. We will have at least two (2) video calls a week to track our progress.
+
 **Issues:** Each group member assigns himself to an issue. Each issue should have current status on the project board.
+
 **Pull Requests:** Pull Requests are done  by each group member. Approved by any other group member.
+
 ## Availability
-[comment]: <> (How many hours does everyone have? and when are you generally available?)
+
 Of course, it depends on the activities of each member, but it is important to know the availability of each one. This information is provided by each member and is never imposed on the group, however the active participation of all members is necessary.
 Group member | Hours per day | Time
 --- | --- | ---
