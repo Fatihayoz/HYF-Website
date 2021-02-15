@@ -34,7 +34,7 @@ Based on website ![www.hackyourfuture.be](https://hackyourfuture.be/)
 Created by 
 * Gustavo Espitia
 * Fatih Ayöz
-* Reinaldo
+* Reinaldo Perez
 * Victoria Yermakova
 
 ## feel free to contact us!
