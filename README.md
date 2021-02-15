@@ -6,7 +6,7 @@ This repository is for making a copy of www.hackyourfuture.be
 - [HYF-Website](#hyf-website)
   - [Table of contents](#table-of-contents)
   - [General info](#general-info)
-  - [Screenshots](#screenshots)
+  - [Screenshot](#screenshot)
   - [Technologies](#technologies)
   - [Status](#status)
   - [Inspiration](#inspiration)
@@ -14,24 +14,24 @@ This repository is for making a copy of www.hackyourfuture.be
   - [feel free to contact us!](#feel-free-to-contact-us)
 
 ## General info
-This week's class-13-14-3 group project is to build an accessible & responsive clone of ![Hack Your Future](https://hackyourfuture.be/), HackYourFuture Belgium is an initiative of Open Knowledge Belgium. We don't expect for all the buttons to have the same behavior, but visually the site should be identical to the real Hack-Your-Future.
+This week's class-13-14-3 group project is to build an accessible & responsive clone of [Hack Your Future](https://hackyourfuture.be/), HackYourFuture Belgium is an initiative of Open Knowledge Belgium. We don't expect for all the buttons to have the same behavior, but visually the site should be identical to the real Hack-Your-Future.
 
-## Screenshots
-![Hack Your Future](https://github.com/gustavoaespitia/gustavotest/blob/main/screencapture-hackyourfuture-be-2021-02-14-17_26_48.png)
+## Screenshot
+![Hack Your Future](https://github.com/gustavoaespitia/gustavotest/blob/main/screencapture-hackyourfuture-be-2021-02-14-17_26_48.png "Home-page-Website Hack Your Future")
 
-## Technologies
+## Technologies 
 * HTML
 * CSS
 
 
 ## Status
-Project is: _in progress_ during two weeks by team ![Class 13-14-3](https://hackyourfuturebe.slack.com/archives/C01J9PWM3T5/p1613318619236200)
+Project is: _in progress_ during two weeks by team [Class 13-14-3](https://hackyourfuturebe.slack.com/archives/C01J9PWM3T5/p1613318619236200 "Class 13-14-3")
 
 ## Inspiration
-Based on website ![www.hackyourfuture.be](https://hackyourfuture.be/)
+Based on website [www.hackyourfuture.be](https://hackyourfuture.be/ "Website Hack Your Future")
 
 ## Contact
-Created by 
+Created by:
 * Gustavo Espitia
 * Fatih Ayöz
 * Reinaldo Perez
