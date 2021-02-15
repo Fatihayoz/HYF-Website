@@ -19,7 +19,7 @@ This week's class-13-14-3 group project is to build an accessible & responsive c
 ## Screenshot
 ![Hack Your Future](https://github.com/gustavoaespitia/gustavotest/blob/main/screencapture-hackyourfuture-be-2021-02-14-17_26_48.png "Home-page-Website Hack Your Future")
 
-## Technologies
+## Technologies 
 * HTML
 * CSS
 
@@ -31,7 +31,7 @@ Project is: _in progress_ during two weeks by team [Class 13-14-3](https://hacky
 Based on website [www.hackyourfuture.be](https://hackyourfuture.be/ "Website Hack Your Future")
 
 ## Contact
-Created by 
+Created by:
 * Gustavo Espitia
 * Fatih Ayöz
 * Reinaldo
