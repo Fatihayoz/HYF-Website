@@ -26,7 +26,7 @@ Hack Your Future BE Website
 
     creates div class
         uses background img 
-        uses a title
+        uses an h1 title
 
 ### css
 
@@ -52,7 +52,7 @@ Hack Your Future BE Website
     uses a "container flex" class
         uses a tittle
         uses a paragraph
-        uses 3 divs with a title and a paragraph each one  
+        uses 3 divs containers with a title and a paragraph each one  
         
 #### css
 
@@ -64,9 +64,10 @@ Hack Your Future BE Website
 
     uses a "container flex" class
         uses an H3 class title
-        uses 4 images
-        uses 4 h3 class
-        uses 4 paragraph
+        uses 4 div containers
+            uses 4 images
+            uses 4 h3 titles
+            uses 4 paragraph
           
 #### css
 
@@ -76,7 +77,7 @@ Hack Your Future BE Website
 
 #### html
             
-    uses a "container flex" class
+    uses a "container flex" class (we will use one succes story like an example)
         uses an H2 title
         uses 2 arrows images
         uses "another container flex"
@@ -107,8 +108,14 @@ Hack Your Future BE Website
         uses another "container flex" class
             uses an h1 title
             uses a paragraph
-        uses another "container flex" class (originally scripts)
-            uses a button donate
+        uses another "container flex" class 
+           uses an input radio button
+           uses a label
+           uses another "container flex"
+                uses a ul
+           uses a label
+           uses 3 imput class
+           uses a "donate" button 
             
 ### contact us section
 
