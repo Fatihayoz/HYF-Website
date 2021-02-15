@@ -16,7 +16,7 @@ Hack Your Future BE Website
 
 #### CSS
 
-    header
+    header 
 
 # Body 
 
@@ -52,21 +52,105 @@ Hack Your Future BE Website
     uses a "container flex" class
         uses a tittle
         uses a paragraph
-        uses three divs with a title and a paragraph each one  
+        uses 3 divs with a title and a paragraph each one  
         
 #### css
 
-### Our impact section
+    Our impact section
+
+### Our core values section
     
 #### html
 
     uses a "container flex" class
-        uses a tittle
-        uses a paragraph
-        uses three divs with a title and a paragraph each one  
+        uses an H3 class title
+        uses 4 images
+        uses 4 h3 class
+        uses 4 paragraph
+          
+#### css
+
+    Our core values section
+        
+### Our success stories section
+
+#### html
+            
+    uses a "container flex" class
+        uses an H2 title
+        uses 2 arrows images
+        uses "another container flex"
+            uses an image
+            uses an H4 title
+            uses 2 paragraphs
+            
+#### css
+
+    Our success stories section 
+       
+### Our partners section
+
+#### html
+
+    uses a "container flex" class
+        uses an H2 title
+        uses a "become a partner" link
+        uses eleven (11) images 
+    
+#### css
+
+    Our partners section
+    
+### Support the developers of tomorrow section
+
+    uses a "container flex" class
+        uses another "container flex" class
+            uses an h1 title
+            uses a paragraph
+        uses another "container flex" class (originally scripts)
+            uses a button donate
+            
+### contact us section
+
+#### html
+
+    uses a "container flex" class 
+        uses anpother "container flex" class
+            uses an h1 title
+            uses a paragraph
+            uses a submit form 
+        uses a map class
         
 #### css
 
+    contact us section
+    
+# footer
+
+#### html
+
+    uses a "container flex" class 
+        uses an h3 title
+        uses a paragraph
+        uses a "social media" div
+        uses 4 link img
+
+#### css
+
+    footer 
+    
+    
+            
+
+    
+        
+    
+    
+
+        
+     
+
+        
     
     
     
@@ -86,112 +170,4 @@ Hack Your Future BE Website
 
 
 
-
-
-
-
-
-
-# Showcase form-card section
-
-## HTML
-
-    Request a Demo (issue)
-        uses a "form-control" class
-        3 fields of the form - "Name", "Company Name", "Email"
-        uses a "btn btn-primary" class for "Send"
-
-## CSS (label)
-
-    Showcase form-card section (issue)
-
-# Stats section 
-
-## HTML
-
-    Stats (issue)
-        uses a "stats" class
-        uses a "container" class
-        uses a "stats-heading text-center my-1" class
-    uses a "grid grid-3 text-center my-4" for "Deployments", "Published", "Projects"
-    Deployments
-        uses a "fas fa-server fa-3x" class
-        uses a "text-secondary" class
-    Published
-        uses a "fas fa-upload fa-3x" class
-        uses a "text-secondary" class
-    Projects
-        uses a "fas fa-project-diagram fa-3x" class
-        uses a "text-secondary" class
-
-## CSS
-
-    Stats section (issue)
-
-#Cli section
-
-## HTML
-
-    Cli image (issue)
-        uses a "cli" class
-        uses a "container grid" class
-    Card
-        uses a "card" class
-
-## CSS
-
-    Cli section
-
-# Cloud section
-
-## HTML
-
-    Cloud (issue)
-        uses a "cloud bg-primary my-2 py-2" class
-        uses a "container grid" class
-        uses a "text-center" class
-    Cloud Hosting text
-        uses a "lg" class
-        uses a "lead my-1" class
-    uses a "btn btn-primary" class for "Read More"
-
-## CSS
-
-    Cloud section
-
-# Languages
-
-## HTML
-
-    Supported languages text
-        uses a "languages" class
-        uses a "md text-center my-2" class
-    Languages list
-        uses a "container flex" class
-        uses a "card" class
-
-## CSS
-
-    Languages section
-
-# Footer
-
-## HTML
-
-    Footer text
-        uses a "footer bg-dark py-5" class
-        uses a "container grid grid-3" class
-    Footer list
-        links
-    Social media
-        uses a "social" class
-        uses a "fab fa-github fa-2x" class
-        uses a "fab fa-facebook fa-2x" class
-        uses a "fab fa-instagram fa-2x" class
-        uses a "fab fa-twitter fa-2x" class
-
-## CSS
-
-    Footer text
-    Social media
 
