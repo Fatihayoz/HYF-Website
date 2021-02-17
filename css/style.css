@@ -1,1 +1,97 @@
+.program {
+  width: auto;
+  justify-content: center;
+  margin: 10px 0px 10px 0px;
+  background-color: none;
+}
 
+.grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  display: flex;
+  overflow: hidden;
+  width: 100%;
+  padding: 50px 10px 50px 20px;
+}
+
+.one {
+  float: left;
+  padding-right: 50px;
+  width: 520px;
+  margin: 0px;
+  position: relative;
+}
+.grid .one {
+  float: left;
+  margin: 0px;
+}
+
+.two {
+  padding: 0px 5px 0px 120px;
+}
+
+.grid .two img {
+  width: 600px;
+  float: right;
+  margin: 0px;
+  position: relative;
+}
+
+.one p {
+  font-size: 16px;
+  font-family: "Space Mono", monospace;
+  white-space: pre-wrap;
+  word-break: break-word;
+  font-weight: 300;
+  margin-bottom: 20px;
+  text-align: left;
+  color: rgb(45, 48, 55);
+  line-height: 160%;
+  padding: 0px;
+  border: 0px;
+}
+.one h2 {
+  font-size: 20px;
+  font-family: "Work Sans", sans-serif;
+  white-space: pre-wrap;
+  font-weight: 700;
+  margin-bottom: 20px;
+  text-align: left;
+  color: rgb(28, 34, 148);
+  line-height: 140%;
+  text-transform: uppercase;
+}
+.one b {
+  color: rgb(74, 80, 187);
+  font-weight: 300;
+  font-family: "Space Mono", monospace;
+}
+
+.arrow {
+  width: 13px;
+  height: 12px;
+  margin-left: 4px;
+  align-self: auto;
+  cursor: pointer;
+  background-color: transparent;
+  align-content: center;
+}
+
+.button1 {
+  font-family: "Work Sans", sans-serif;
+  font-size: 11px;
+  line-height: 160%;
+  padding: 10px 20px 10px 0px;
+  color: rgb(74, 80, 187);
+  background-color: transparent;
+  border-radius: 4px;
+  border: 1px solid transparent;
+  text-align: left;
+  cursor: pointer;
+  letter-spacing: normal;
+  font-weight: 600;
+  align-items: center;
+}
+.button1:hover {
+  background-color: #f3f3f2;
+}
