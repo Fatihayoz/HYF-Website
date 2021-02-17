@@ -1,5 +1,5 @@
 .program {
-  width: auto;
+  width: 100%;
   justify-content: center;
   margin: 10px 0px 10px 0px;
   background-color: none;
@@ -10,14 +10,12 @@
   grid-template-columns: repeat(2, 1fr);
   display: flex;
   overflow: hidden;
-  width: 100%;
   padding: 50px 10px 50px 20px;
 }
 
 .one {
   float: left;
   padding-right: 50px;
-  width: 520px;
   margin: 0px;
   position: relative;
 }
@@ -28,9 +26,10 @@
 
 .two {
   padding: 0px 5px 0px 120px;
+  position: relative;
 }
 
-.grid .two img {
+.two img {
   width: 600px;
   float: right;
   margin: 0px;
