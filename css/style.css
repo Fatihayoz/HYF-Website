@@ -95,3 +95,70 @@
   background-color: #f3f3f2;
 }
 
+/*Our Impact*/
+.our-impact {
+  box-shadow: rgb(0 0 0 / 8%) 0px 0px 53px;
+  padding: 20px 50px 40px 50px;
+  background-color: #ffffff;
+  margin-top: 40px;
+}
+
+.container-impact {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  display: flex;
+  overflow: hidden;
+  gap: 3em;
+}
+.impact-1 {
+  width: 100%;
+  background-color: rgb(74, 80, 187);
+  padding: 10px 20px 10px 20px;
+}
+.impact-2 {
+  width: 100%;
+  background-color: rgb(74, 80, 187);
+  padding: 10px 20px 10px 20px;
+}
+
+.impact-3 {
+  width: 100%;
+  background-color: rgb(74, 80, 187);
+  padding: 10px 20px 10px 20px;
+}
+.our-impact h2 {
+  font-size: 24px;
+  line-height: 140%;
+  margin-bottom: 20px;
+  text-transform: uppercase;
+  font-family: "Work Sans", sans-serif;
+  font-weight: bold;
+  color: rgb(28, 34, 148);
+  text-align: center;
+}
+.our-impact .general-impact {
+  font-family: "Space Mono", monospace;
+  font-size: 16px;
+  color: rgb(45, 48, 55);
+  text-align: center;
+  padding: 10px 180px 40px 180px;
+}
+
+.our-impact .container-impact p {
+  font-size: 16px;
+  font-family: "Space Mono", monospace;
+  font-weight: 300;
+  align-content: center;
+  text-align: left;
+  width: 100%;
+  line-height: 160%;
+  color: #ffffff;
+}
+
+.our-impact .container-impact h1 {
+  color: #ffffff;
+  font-weight: 700;
+  font-family: "Work Sans", sans-serif;
+  font-size: 24px;
+}
+
