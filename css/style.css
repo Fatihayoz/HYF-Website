@@ -1,3 +1,57 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0 px;
+}
+
+/*Header*/
+header {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  background-color:transparent;
+  padding: 16px 20px;
+}
+
+.menu ul li {
+  display: inline-block;
+  list-style: none;
+}
+
+.menu ul li a {  
+  font-family: sans-serif;
+  color: rgb(179, 179, 179);
+  font-size: 11px;
+  text-decoration: none;
+  padding: 10px 20px;
+}
+
+.menu ul li a:hover {
+  border-bottom: 3px rgb(74, 80, 187) solid;
+}
+
+
+button {
+  font-family: "Work Sans", sans-serif;
+  font-size: 12px;
+  line-height: 160%;
+  text-decoration: none;
+  background-color: rgb(74, 80, 187);
+  color: white;
+  border: 1px solid transparent;
+  border-radius: 4px;
+  padding: 10px 20px;
+  cursor: pointer;
+  -moz-box-align: center;
+  align-items: center;
+}
+
+.logo-hyf {
+  margin-left: 20 px;
+  margin-right: auto;
+}
+
+/*Our program*/
 .program {
   width: 100%;
   justify-content: center;
