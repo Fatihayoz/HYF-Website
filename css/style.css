@@ -9,7 +9,7 @@ header {
   display: flex;
   justify-content: flex-end;
   align-items: center;
-  background-color:transparent;
+  background-color: transparent;
   padding: 16px 20px;
 }
 
@@ -18,7 +18,7 @@ header {
   list-style: none;
 }
 
-.menu ul li a {  
+.menu ul li a {
   font-family: sans-serif;
   color: rgb(179, 179, 179);
   font-size: 11px;
@@ -73,6 +73,7 @@ button {
   margin: 0px;
   position: relative;
 }
+
 .grid .one {
   float: left;
   margin: 0px;
@@ -103,6 +104,7 @@ button {
   padding: 0px;
   border: 0px;
 }
+
 .one h2 {
   font-size: 20px;
   font-family: "Work Sans", sans-serif;
@@ -114,6 +116,7 @@ button {
   line-height: 140%;
   text-transform: uppercase;
 }
+
 .one b {
   color: rgb(74, 80, 187);
   font-weight: 300;
@@ -145,6 +148,7 @@ button {
   font-weight: 600;
   align-items: center;
 }
+
 .button1:hover {
   background-color: #f3f3f2;
 }
@@ -164,11 +168,13 @@ button {
   overflow: hidden;
   gap: 3em;
 }
+
 .impact-1 {
   width: 100%;
   background-color: rgb(74, 80, 187);
   padding: 10px 20px 10px 20px;
 }
+
 .impact-2 {
   width: 100%;
   background-color: rgb(74, 80, 187);
@@ -180,6 +186,7 @@ button {
   background-color: rgb(74, 80, 187);
   padding: 10px 20px 10px 20px;
 }
+
 .our-impact h2 {
   font-size: 24px;
   line-height: 140%;
@@ -190,6 +197,7 @@ button {
   color: rgb(28, 34, 148);
   text-align: center;
 }
+
 .our-impact .general-impact {
   font-family: "Space Mono", monospace;
   font-size: 16px;
@@ -216,3 +224,85 @@ button {
   font-size: 24px;
 }
 
+/*footer*/
+.main-container-footer {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  padding: 50px 20px;
+  position: relative;
+}
+
+.outer-container {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  max-width: 1280px;
+  padding: 10px 0px;
+  margin: 0px auto;
+}
+
+.inner-container {
+  align-items: center;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  width: 100%;
+  margin: 0px;
+  padding: 0px;
+}
+
+.h3-footer {
+  font-size: 24px;
+  line-height: 140%;
+  margin-bottom: 20px;
+  text-transform: uppercase;
+  font-family: "Work Sans", sans-serif;
+  font-weight: 700;
+  color: rgb(28, 34, 148);
+  text-align: left;
+}
+
+.p-footer {
+  color: rgb(45, 48, 55);
+  text-align: center;
+  line-height: 160%;
+  font-size: 16px;
+  font-family: "Space Mono", monospace;
+  margin: 0px;
+  font-weight: 300;
+}
+
+.email-footer {
+  color: rgb(45, 48, 55);
+  text-align: left;
+  line-height: 160%;
+  font-size: 16px;
+  font-family: "Space Mono", monospace;
+  margin: 0px;
+  font-weight: 300;
+}
+
+.social-media-footer {
+  display: flex;
+  flex-direction: row;
+  height: auto;
+  justify-content: center;
+  width: 100%;
+  margin: 20px 0px;
+  padding: 0px;
+}
+
+.link-social-media {
+  line-height: 160%;
+  font-size: 16px;
+  font-family: "Space Mono", monospace;
+  margin: 0px 10px;
+  font-weight: 300;
+}
+
+.icon-social-media {
+  width: 26px;
+  height: 26px;
+}
