@@ -54,7 +54,6 @@ button {
 /*Our program*/
 .program {
   width: 100%;
-  justify-content: center;
   margin: 10px 0px 10px 0px;
   background-color: none;
 }
@@ -62,7 +61,6 @@ button {
 .grid {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
-  display: flex;
   overflow: hidden;
   padding: 50px 10px 50px 20px;
 }
@@ -71,7 +69,7 @@ button {
   float: left;
   padding-right: 50px;
   margin: 0px;
-  position: relative;
+  width: 400px;
 }
 
 .grid .one {
@@ -103,6 +101,7 @@ button {
   line-height: 160%;
   padding: 0px;
   border: 0px;
+  
 }
 
 .one h2 {
