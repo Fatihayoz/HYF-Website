@@ -1,4 +1,4 @@
-Hack Your Future BE Website
+Hack Your Future BE Website <!--- Development strategy week 2 -->
 
 # Head title
 
@@ -122,7 +122,7 @@ Hack Your Future BE Website
 #### html
 
     uses a "container flex" class 
-        uses anpother "container flex" class
+        uses another "container flex" class
             uses an h1 title
             uses a paragraph
             uses a submit form 
@@ -145,9 +145,107 @@ Hack Your Future BE Website
 #### css
 
     footer 
+  
+  ----
+
+# Week 3 (Development strategy week 3 / finish home page and start working on "the program" page)
+
+### CONTACT US section
+
+#### html
+
+    uses a "container flex" class 
+        uses another "container flex" class
+            uses an h1 title
+            uses a paragraph
+            uses a submit form 
+        uses a map class
+        
+#### css
+
+    contact us section 
+
+### YOUR NEW CAREER STARTS HERE section
+
+#### html
+
+    uses a "container flex" class 
+        uses another "container flex" class
+            uses an h1 title
+            uses 5 paragraphs
+            uses a link button 
+        uses another "container flex"
+            uses an image
+                
+#### css
+
+    your new career starts here section
+        
+### WHO CAN APPLY? section
+
+#### html
+
+    uses a "container flex" class 
+        uses another "container flex" class
+            uses an h1 title
+            uses 1 paragraph
+        uses another "container flex" class
+            uses 1 ul with 6 li
+            uses 6 icons 
     
-    
+#### css
+
+    who can apply? section
             
+### 8-MONTH PROGRAM section
+
+#### html
+
+    uses a "container flex" class 
+        uses another "container flex" class
+            uses an h1 title
+            uses 2 links
+        uses another "container flex" class
+            uses 3 images
+        uses another "container flex" class
+            uses 3 images
+   
+#### css
+
+    8-month program section
+    
+### BUT THAT'S NOT IT section
+
+#### html
+
+    uses a "container flex" class 
+        uses another "container flex" class
+            uses an h1 title
+            uses a paragraph
+            uses a link button
+        uses another "container flex" class
+            uses an image
+      uses a "container flex" class 
+        uses another "container flex" class
+            uses an image        
+        uses another "container flex" class
+            uses an h1 title
+            uses a paragraph
+            uses a link button
+      uses a "container flex" class 
+        uses another "container flex" class
+            uses an h1 title
+            uses a paragraph
+            uses a link button
+        uses another "container flex" class
+            uses an image
+   
+#### css
+
+    8-month program section
+    
+
+    
 
     
         
