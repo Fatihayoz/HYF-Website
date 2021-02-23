@@ -89,9 +89,7 @@ button {
 
 .one {
   float: left;
-  padding-right: 50px;
-  margin: 0px;
-  width: 400px;
+  width: 470px;
 }
 
 .grid .one {
@@ -107,7 +105,6 @@ button {
 .two img {
   width: 600px;
   float: right;
-  margin: 0px;
   position: relative;
 }
 
@@ -121,8 +118,6 @@ button {
   text-align: left;
   color: rgb(45, 48, 55);
   line-height: 160%;
-  padding: 0px;
-  border: 0px;
 }
 
 .one h2 {
@@ -144,8 +139,8 @@ button {
 }
 
 .arrow {
-  width: 13px;
-  height: 12px;
+  width: 10px;
+  height: 10px;
   margin-left: 4px;
   align-self: auto;
   cursor: pointer;
@@ -558,7 +553,6 @@ p {
 }
 /*Support Us*/
 .support {
-  padding: 0px 0px 0px 0px;
   background-color: rgb(248, 249, 252);
   justify-content: center;
 }
@@ -570,7 +564,6 @@ p {
   color: rgb(28, 34, 148);
   text-align: left;
   text-transform: uppercase;
-  padding-right: 100px;
   padding-bottom: 20px;
 }
 
@@ -583,7 +576,8 @@ p {
   font-weight: 300;
   white-space: pre-wrap;
   word-wrap: break-word;
-  padding-right: 100px;
+  padding-right: 60px;
+  width: 510px;
 }
 .amount p {
   color: rgb(28, 34, 148);
@@ -596,10 +590,12 @@ p {
   font-weight: 300;
 }
 
-.choose label {
+.choose label,
+input {
   display: flex;
   align-items: center;
   gap: 1em;
+  cursor: pointer;
 }
 
 .prices ul {
@@ -635,10 +631,15 @@ p {
   width: 450px;
   outline: none;
   color: rgb(28, 34, 148);
-  font-size: 16px;
+  font-size: 18px;
 }
 
 .amount button {
   margin-top: 20px;
   padding: 10px 20px 10px 20px;
+}
+
+.prices li:hover {
+  background-color: rgb(28, 34, 148);
+  color: rgb(255, 255, 255);
 }
