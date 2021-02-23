@@ -551,8 +551,11 @@ p {
   z-index: 1;
   flex: 0 0 auto;
 }
+
 /*Support Us*/
+
 .support {
+  padding: 0px 0px 0px 0px;
   background-color: rgb(248, 249, 252);
   justify-content: center;
 }
@@ -564,6 +567,7 @@ p {
   color: rgb(28, 34, 148);
   text-align: left;
   text-transform: uppercase;
+  padding-right: 100px;
   padding-bottom: 20px;
 }
 
@@ -576,8 +580,7 @@ p {
   font-weight: 300;
   white-space: pre-wrap;
   word-wrap: break-word;
-  padding-right: 60px;
-  width: 510px;
+  padding-right: 100px;
 }
 .amount p {
   color: rgb(28, 34, 148);
@@ -590,12 +593,10 @@ p {
   font-weight: 300;
 }
 
-.choose label,
-input {
+.choose label {
   display: flex;
   align-items: center;
   gap: 1em;
-  cursor: pointer;
 }
 
 .prices ul {
@@ -631,17 +632,12 @@ input {
   width: 450px;
   outline: none;
   color: rgb(28, 34, 148);
-  font-size: 18px;
+  font-size: 16px;
 }
 
 .amount button {
   margin-top: 20px;
   padding: 10px 20px 10px 20px;
-}
-
-.prices li:hover {
-  background-color: rgb(28, 34, 148);
-  color: rgb(255, 255, 255);
 }
 
 /*contact us*/
@@ -770,4 +766,61 @@ input {
   text-decoration: none;
   box-sizing: border-box;
   font-family: sans-serif;
+}
+
+/*NEW PAGE*/
+
+/*Apply*/
+.apply {
+  display: flex;
+  gap: 3em;
+  padding: 60px 0px 60px 20px;
+  background-color: rgb(248, 249, 252);
+}
+
+.who-apply p {
+  text-align: left;
+  width: 430px;
+  font-family: "Space Mono", monospace;
+  font-size: 16px;
+  color: rgb(45, 48, 55);
+  line-height: 160%;
+  white-space: pre-wrap;
+  font-weight: 300;
+}
+
+.who-apply h1 {
+  color: rgb(28, 34, 148);
+  font-weight: 700;
+  font-size: 24px;
+  margin-bottom: 20px;
+  font-family: "Work Sans", sans-serif;
+}
+
+.requirements b {
+  color: rgb(74, 80, 187);
+  font-family: "Space Mono", monospace;
+  font-weight: bold;
+  font-size: 16px;
+  vertical-align: top;
+}
+
+.requirements {
+  padding-top: 50px 0px 5px 0px;
+}
+.check-circle {
+  width: 25px;
+  height: 25px;
+  color: rgb(74, 80, 187);
+}
+.requirements li {
+  list-style: none;
+}
+.requirements .text-requirement {
+  color: rgb(45, 48, 55);
+  font-family: "Space Mono", monospace;
+  font-weight: bold;
+  font-size: 16px;
+  padding-left: 5px;
+  vertical-align: top;
 }
