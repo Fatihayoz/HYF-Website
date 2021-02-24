@@ -243,7 +243,7 @@ Hack Your Future BE Website <!--- Development strategy week 2 -->
    
 #### css
 
-    8-month program section
+    but that's not it section
     
 
     
