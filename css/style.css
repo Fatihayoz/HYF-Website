@@ -806,7 +806,8 @@ p {
 }
 
 .requirements {
-  padding-top: 50px 0px 5px 0px;
+  padding: 50px 0px 5px 0px;
+  
 }
 .check-circle {
   width: 25px;
