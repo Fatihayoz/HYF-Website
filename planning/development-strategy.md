@@ -218,25 +218,26 @@ Hack Your Future BE Website <!--- Development strategy week 2 -->
 
 #### html
 
-    uses a "container flex" class 
+    uses a "container flex" class
+    
         uses another "container flex" class
-            uses an h1 title
+            uses an h2 title
+            uses an h4 title
             uses a paragraph
             uses a link button
         uses another "container flex" class
             uses an image
-      uses a "container flex" class 
+            
         uses another "container flex" class
             uses an image        
         uses another "container flex" class
-            uses an h1 title
-            uses a paragraph
+            uses an h4 title
+            uses 2 paragraphs
             uses a link button
-      uses a "container flex" class 
+            
         uses another "container flex" class
-            uses an h1 title
+            uses an h4 title
             uses a paragraph
-            uses a link button
         uses another "container flex" class
             uses an image
    
