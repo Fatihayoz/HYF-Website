@@ -825,3 +825,112 @@ p {
   padding-left: 5px;
   vertical-align: top;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+/* 8-MONTH PROGRAM SECTION */
+.eight-month-program {
+  background-color: rgb(255, 255, 255);
+  display: flex;
+  width: 100%;
+  
+}
+
+.title-links {
+  background-color: transparent;
+  width: 50%;
+  
+}
+
+.title-8 {
+  font-size: 24px;
+  line-height: 140%;
+  margin: 120px auto 30px 20px;
+  text-transform: uppercase;
+  font-family: "Work Sans", sans-serif;
+  font-weight: 700;
+  color: rgb(28, 34, 148);
+  text-align: left;
+  max-width: none;
+  
+}
+
+.paragraphs {
+  display: flex;
+  flex-direction: column;
+}
+
+.discover-curriculum {
+  display: inline-flex;
+  font-size: 12px;
+  line-height: 160%;
+  text-decoration: none;
+  background-color: rgb(74, 80, 187);
+  color: white;
+  font-weight: 600;
+  border: 1px solid transparent;
+  border-radius: 4px;
+  box-sizing: border-box;
+  padding: 10px 20px;
+  cursor: pointer;
+  text-transform: uppercase;
+  -webkit-box-align: center;
+  align-items: center;
+  font-family: "Work Sans", sans-serif;
+  margin-left: 20px;
+  margin-bottom: 20px;
+  margin-right: auto;
+}
+
+.become-coach {
+  display: inline-flex;
+  font-size: 12px;
+  line-height: 160%;
+  text-decoration: none;
+  background-color: rgb(74, 80, 187);
+  color: white;
+  font-weight: 600;
+  border: 1px solid transparent;
+  border-radius: 4px;
+  box-sizing: border-box;
+  padding: 10px 20px;
+  cursor: pointer;
+  text-transform: uppercase;
+  -webkit-box-align: center;
+  align-items: center;
+  font-family: "Work Sans", sans-serif;
+  margin-left: 20px;
+  margin-bottom: 140px;
+  margin-right: auto;
+}
+
+.logos-languages {
+  width: 50%;
+}
+
+.logos1 {
+  background-color: transparent;
+  display: flex;
+  justify-content: space-around;
+  padding-top: 80px;
+}
+
+.logos2 {
+  background-color: transparent;
+  display: flex;
+  justify-content: space-around;
+  padding-top: 30px;
+}
+
+.html {
+  align-content: center;
+}
