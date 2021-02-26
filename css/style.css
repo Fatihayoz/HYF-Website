@@ -1084,22 +1084,18 @@ h4 {
 
 .main-container {
   display: flex;
-  flex-direction: row;
-  justify-content: flex-start;
-  align-items: center;
-  width: 100%;
-  max-width: 1280px;
-  padding: 10px 0px;
-  margin: 0px auto;
+  box-sizing: border-box;
+  padding: 10px 0px 10px 0px;
+  margin: 0px 20px;
 }
 
 .first-container {
   display: flex;
   flex-direction: column;
-  align-items: flex-start;
-  width: 100%;
-  z-index: 2;
+  align-items:flex-start;
+  width: 45%;
   max-width: 45%;
+  padding-right: 10px;
 }
 
 .career-h1 {
@@ -1122,8 +1118,6 @@ h4 {
   font-size: 16px;
   font-family: "Space Mono", monospace;
   margin: 10px 0px;
-  white-space: pre-wrap;
-  word-break: break-word;
   font-weight: 300;
 }
 
@@ -1167,15 +1161,13 @@ h4 {
 }
 
 .second-container {
-  position: absolute;
-  top: 100px;
-  right: 0px;
-  width: 100%;
-  height: 100%;
+  display: flex;
+  max-width: 100%;
+  width: 55%;
 }
 
 .new-career-foto {
-  position: relative;
-  width: 800px;
-  float: right;
+  align-items:flex-end;
+  width: 100%;
+  height: auto;
 }
