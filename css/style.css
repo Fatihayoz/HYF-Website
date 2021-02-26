@@ -49,6 +49,7 @@ button {
   margin-left: 20 px;
   margin-right: auto;
 }
+
 /*Banner*/
 .banner-main h1 {
   font-size: 64px;
@@ -63,6 +64,7 @@ button {
   margin: 120px 200px 0px 200px;
   white-space: pre-wrap;
 }
+
 .banner {
   margin-bottom: 60px;
 }
@@ -73,6 +75,7 @@ button {
   object-fit: cover;
   z-index: 0;
 }
+
 /*Our program*/
 .program {
   width: 100%;
@@ -582,6 +585,7 @@ p {
   word-wrap: break-word;
   padding-right: 100px;
 }
+
 .amount p {
   color: rgb(28, 34, 148);
   text-align: left;
@@ -617,14 +621,17 @@ p {
   white-space: pre-wrap;
   word-break: break-word;
 }
+
 .prices .selected {
   background-color: rgb(28, 34, 148);
   color: rgb(255, 255, 255);
 }
+
 .camp-text p {
   margin-right: 230px;
   margin-top: 20px;
 }
+
 .camp-text .text {
   background: none;
   border: none;
@@ -807,16 +814,18 @@ p {
 
 .requirements {
   padding: 50px 0px 5px 0px;
-  
 }
+
 .check-circle {
   width: 25px;
   height: 25px;
   color: rgb(74, 80, 187);
 }
+
 .requirements li {
   list-style: none;
 }
+
 .requirements .text-requirement {
   color: rgb(45, 48, 55);
   font-family: "Space Mono", monospace;
@@ -831,13 +840,11 @@ p {
   background-color: rgb(255, 255, 255);
   display: flex;
   width: 100%;
-  
 }
 
 .title-links {
   background-color: transparent;
   width: 50%;
-  
 }
 
 .title-8 {
@@ -849,7 +856,7 @@ p {
   font-weight: 700;
   color: rgb(28, 34, 148);
   text-align: left;
-  max-width: none;  
+  max-width: none;
 }
 
 .paragraphs {
@@ -966,7 +973,7 @@ h4 {
   font-weight: 700;
   color: rgb(28, 34, 148);
   text-align: left;
-  max-width: none;  
+  max-width: none;
   padding-left: 20px;
 }
 
@@ -1018,7 +1025,6 @@ h4 {
   margin-top: 80px;
   margin-bottom: 200px;
   width: 1fr;
-
 }
 
 .button2 {
@@ -1060,7 +1066,6 @@ h4 {
 
 .block3 {
   width: 1fr;
-
 }
 
 .photo3 {
@@ -1073,4 +1078,104 @@ h4 {
   width: 500px;
   margin-left: 20px;
   text-align: left;
+}
+
+/*Your New Career Starts Here*/
+
+.main-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  width: 100%;
+  max-width: 1280px;
+  padding: 10px 0px;
+  margin: 0px auto;
+}
+
+.first-container {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  width: 100%;
+  z-index: 2;
+  max-width: 45%;
+}
+
+.career-h1 {
+  font-size: 36px;
+  line-height: 120%;
+  margin-bottom: 20px;
+  text-transform: uppercase;
+  font-family: "Work Sans", sans-serif;
+  font-weight: 700;
+  color: rgb(74, 80, 187);
+  text-align: left;
+  max-width: none;
+}
+
+.career-p {
+  color: rgb(45, 48, 55);
+  text-align: left;
+  max-width: none;
+  line-height: 160%;
+  font-size: 16px;
+  font-family: "Space Mono", monospace;
+  margin: 10px 0px;
+  white-space: pre-wrap;
+  word-break: break-word;
+  font-weight: 300;
+}
+
+.career-p b {
+  display: inline;
+  color: rgb(74, 80, 187);
+  font-weight: bold;
+  font-family: "Space Mono", monospace;
+}
+
+.career-p-und {
+  text-align: left;
+  max-width: none;
+  line-height: 160%;
+  font-size: 16px;
+  font-family: "Space Mono", monospace;
+  margin: 10px 0px;
+  white-space: pre-wrap;
+  word-break: break-word;
+  font-weight: 300;
+  text-decoration: underline;
+  color: rgb(74, 80, 187);
+}
+
+.career-button {
+  display: inline-flex;
+  font-size: 12px;
+  line-height: 160%;
+  text-decoration: none;
+  background-color: rgb(74, 80, 187);
+  color: white;
+  font-weight: 600;
+  border: 1px solid transparent;
+  border-radius: 4px;
+  box-sizing: border-box;
+  padding: 10px 20px;
+  cursor: pointer;
+  text-transform: uppercase;
+  align-items: center;
+  font-family: "Work Sans", sans-serif;
+}
+
+.second-container {
+  position: absolute;
+  top: 100px;
+  right: 0px;
+  width: 100%;
+  height: 100%;
+}
+
+.new-career-foto {
+  position: relative;
+  width: 800px;
+  float: right;
 }
