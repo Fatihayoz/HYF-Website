@@ -622,6 +622,11 @@ p {
   word-break: break-word;
 }
 
+.prices ul :hover {
+  background-color: rgb(28, 34, 148);
+  color: rgb(255, 255, 255);
+}
+
 .prices .selected {
   background-color: rgb(28, 34, 148);
   color: rgb(255, 255, 255);
